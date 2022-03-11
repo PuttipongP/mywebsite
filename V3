@@ -1,0 +1,178 @@
+<html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>💚Puttipong's Website</title>
+  <link rel="stylesheet" href="css\styles0.css">
+</head>
+<body>
+<img src="C:\FilmDrive\SWU_WORK\Y3T2\WEBBASE\LAB Html\Images\PuttipongP.jpg" alt="PuttipongP"style="width:250px;height:200px;">
+<h1><strong>Puttipong Promkhun aka Film </strong></h1>
+<a href ="index.html"> To Home </a>
+<p><strong> My contact information</strong></p>
+<hr>
+<h3>contact</h3>
+<ul>
+<li>Facebook : Puttipong Promkhun</li>
+<li>Instragam : puttp0ng_.film</li>
+<li>Lineid : film181043 </li>
+</ul>
+
+<hr>
+<form class="" action="index.html" method="post">
+  <p><label>Your name</label>
+  <input type="text" name="" value="">
+  <input type="submit"> </p>
+  <p><label>Do you want to sign up?</label>
+  <input type="checkbox"> </p>
+  <label>Your Email:</label>
+  <input type="text" email="" value="">
+  <label>Password</label>
+  <input type="text" pass="" value="">
+  <p><label>Your Message </label>
+  <input type="text" message="" value="">
+  <input type="submit"></p>
+<hr>
+</body>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d248035.31111344686!2d100.4247344!3d13.7455676!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ee109dab6e1%3A0xfd15aa1c632d9677!2z4Lih4Lir4Liy4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lio4Lij4Li14LiZ4LiE4Lij4Li04LiZ4LiX4Lij4Lin4Li04LmC4Lij4LiS!5e0!3m2!1sth!2sth!4v1644292330865!5m2!1sth!2sth" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</html>
+
+<html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>💚Puttipong's Website</title>
+  <link rel="stylesheet" href="css\styles1.css">
+</head>
+<body>
+<h1>Puttipong Promkhun</h1>
+<p></strong><em>Theese are my hobbies</em></strong></p>
+<img src="C:\FilmDrive\SWU_WORK\Y3T2\WEBBASE\LAB Html\Images\pogfilm.jpg" alt="pogfilm" style="width:250px;height:300px;">
+<a href ="index.html"> To Home </a>
+<hr>
+<h3><em>My Hobbies<em></h3>
+<ol>
+  <li>Gamimg</li>
+  <li>Reading</li>
+  <li>Workout</li>
+  <li>Listening to musics</li>
+  </ol>
+<hr>
+<h4><strong> My Favourite Musics</strong></h4>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yuoFLLHB1Fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzKM5g_FwYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A0ngF8pxy9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCDQN8iDCzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+</html>
+
+<html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>💚Puttipong's Website</title>
+
+  <link rel="stylesheet" href="css\styles.css">
+<!---style>
+body {background-color:teal;
+}
+</<style media="screen">
+
+</style>>
+h1{
+color: Crimson;
+}
+</style>
+</head>
+<!--inline CSS-->
+<!--body style="background-color: #EFFFFD;"-->
+<body>
+
+<h1>Puttipong Promkhun</h1>
+<p>Welcome to <strong><em> my Website</em></strong></p>
+<p style = "color:bule;">Im a student at SWU.</p>
+<a href ="Contact-me.html"> My Info </a>
+<hr>
+<img src="C:\FilmDrive\SWU_WORK\Y3T2\WEBBASE\LAB Html\Images\shop.jpg" alt="shop"style="width:300px;height:250px;">
+<h3>Classes</h3>
+<ul>
+<li>Geogrphy</li>
+<li>WebGIS</li>
+</ul>
+<hr>
+<h3>Hobbies</h3>
+<a href ="hobbies.html"> My hobbies </a>
+<ol>
+  <li>Gamimg</li>
+  <li>Reading</li>
+  <li>Workout</li>
+  </ol>
+<hr>
+<h3> Skills </h3>
+<p>Language : English</p>
+<p>General Program : Microsoft Word,Davinci Resolve</p>
+<p>Programming skills :Python </p>
+<hr>
+<!-- Table Skill-->
+<Table>
+  <tr>
+    <td>Language </td>
+    <td>English </td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>General program </td>
+    <td>Microsoft word,Davinci Resolve</td>
+    <td>⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>Programming skills</td>
+    <td>Python </td>
+    <td>⭐⭐</td>
+  </tr>
+</table>
+<hr>
+<!-- Table Skil 2l-->
+<Table>
+  <tr>
+    <thead>
+      <th>Types</th>
+      <th>Skill </th>
+    </thead>
+    <tbody>
+      <tr>
+    <td>Language </td>
+    <td>English </td>
+    <tbody>
+  </tr>
+  <tr>
+    <td>General program </td>
+    <td>Microsoft word,Davinci Resolve</td>
+  </tr>
+  <tr>
+    <td>Programming skills</td>
+    <td>Python </td>
+  </tr>
+</tbody>
+</tr>
+</table>
+<hr>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d248035.31111344686!2d100.4247344!3d13.7455676!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ee109dab6e1%3A0xfd15aa1c632d9677!2z4Lih4Lir4Liy4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4Lio4Lij4Li14LiZ4LiE4Lij4Li04LiZ4LiX4Lij4Lin4Li04LmC4Lij4LiS!5e0!3m2!1sth!2sth!4v1644292330865!5m2!1sth!2sth" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e8j2ipFkvlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
