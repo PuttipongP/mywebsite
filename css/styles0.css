@@ -1,25 +1,23 @@
-body {background-color:#86C6F4;
+body {background-color:#00FFDD;
 }
 h1{
-  color: Maroon;
+  color: F0A500;
   }
 h2{
-color: Maroon;
+color: F0A500;
 }
 h3{
-color: Maroon;
+color: F0A500;
 }
 h4{
-color: Maroon;
+color: F0A500;
 }
-h5{
-color: Maroon;  
-}
+hr{
 hr{
 /* background-color:white; */
 border-style: none;
 border-top-style: dotted;
-border-color: #533E85;
+border-color: #1B1A17;
 border-width: 5px;
 width: 50%
 }
